@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ricardo Chong</h1>
 <h3 align="center">Previous Marketing Director now an AI Engineer</h3>
 
-- 🔭 I’m currently working on [Brasaland](https://github.com/Rickycastro1940/ai-engineering-company-project-monorepo)
+- 🔭 I’m currently working on [Brasaland](https://github.com/Rickycastro1940/ai-engineering-company-project-monorepo) An AI-powered restaurant operations project combining Python, FastAPI, a tool-calling inventory agent, searchable company knowledge, real-time alerts, and automated reporting workflows. Developed through the 4Geeks Academy AI Engineering program.
 
-- I'm currently working on https://github.com/Rickycastro1940/advantageAI Advantage AI Solutions — A responsive B2B website built with Next.js, React, and Tailwind CSS, deployed on Vercel.
+- I'm currently working on [AdvantageAIsolutions](https://github.com/Rickycastro1940/advantageAI)  — A responsive B2B website built with Next.js, React, and Tailwind CSS, deployed on Vercel.
 
 - 🌱 I’m currently learning **AI Engineering**
 
