@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Brasaland](https://github.com/Rickycastro1940/ai-engineering-company-project-monorepo)
 
+- I'm currently working on https://github.com/Rickycastro1940/advantageAI Advantage AI Solutions — A responsive B2B website built with Next.js, React, and Tailwind CSS, deployed on Vercel.
+
 - 🌱 I’m currently learning **AI Engineering**
 
 - 📫 How to reach me **rchong1940@gmail.com**
